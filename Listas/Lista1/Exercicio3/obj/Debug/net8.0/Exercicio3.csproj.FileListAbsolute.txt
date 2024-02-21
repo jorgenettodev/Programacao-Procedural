@@ -1,0 +1,15 @@
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista1/Exercicio3/bin/Debug/net8.0/Exercicio3
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista1/Exercicio3/bin/Debug/net8.0/Exercicio3.deps.json
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista1/Exercicio3/bin/Debug/net8.0/Exercicio3.runtimeconfig.json
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista1/Exercicio3/bin/Debug/net8.0/Exercicio3.dll
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista1/Exercicio3/bin/Debug/net8.0/Exercicio3.pdb
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista1/Exercicio3/obj/Debug/net8.0/Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista1/Exercicio3/obj/Debug/net8.0/Exercicio3.AssemblyInfoInputs.cache
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista1/Exercicio3/obj/Debug/net8.0/Exercicio3.AssemblyInfo.cs
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista1/Exercicio3/obj/Debug/net8.0/Exercicio3.csproj.CoreCompileInputs.cache
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista1/Exercicio3/obj/Debug/net8.0/Exercicio3.sourcelink.json
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista1/Exercicio3/obj/Debug/net8.0/Exercicio3.dll
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista1/Exercicio3/obj/Debug/net8.0/refint/Exercicio3.dll
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista1/Exercicio3/obj/Debug/net8.0/Exercicio3.pdb
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista1/Exercicio3/obj/Debug/net8.0/Exercicio3.genruntimeconfig.cache
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista1/Exercicio3/obj/Debug/net8.0/ref/Exercicio3.dll
