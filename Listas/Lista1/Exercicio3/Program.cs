@@ -24,15 +24,15 @@ class Program
     {
         // input
         Console.WriteLine("Digite a quantidade em moedas que deseja converter para reais: ");
-        
+
         int quantidadeMoedas = int.Parse(Console.ReadLine());
         int valorEmReais = quantidadeMoedas / 100;
         int valorEmCentavos = quantidadeMoedas % 100;
 
         // processamento
-        string resultado = $"O total desta conversão é: {valorEmReais} real(is) e {valorEmCentavos} centavo(s).";
+        string resultadoConversao = $"O total desta conversão é: {valorEmReais} real(is) e {valorEmCentavos} centavo(s).";
 
         // output
-        Console.WriteLine(resultado);
+        Console.WriteLine(resultadoConversao);
     }
 }
