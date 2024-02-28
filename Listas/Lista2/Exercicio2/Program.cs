@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.InteropServices;
 
 class Program
 {
@@ -14,10 +15,14 @@ class Program
         // processamento
         double media = (nota1 + nota2 + nota3 + nota4) / 4.0;
         string resultado;
-        if (media >= 5.0)
+        const double aprovado = 5.0;
+        const double recuperacao = 3.0;
+
+
+        if (media >= aprovado)
         {
             resultado = "Aluno aprovado";
-        } else if (media <5.0 && media >= 3.0)
+        } else if (media >= recuperacao)
         {
             resultado = "Aluno em recuperacao";
         } else
