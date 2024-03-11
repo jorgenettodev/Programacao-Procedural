@@ -4,35 +4,29 @@ class Program
 {
     static void Main(string[] args)
     {
-        const string PALAVRA_CORRETA = "Cachorro";
-        int contador = 1;
-        const int MAXIMO_DE_TENTATIVAS = 3;
+        // crie um programa que diga a media de altura de jogadores de um time de basket e também a maior altura.
+        double maiorAltura = 0;
+        double mediaAltura = 0;
+        double alturaAtual;
+        double somatorioAltura = 0;
+        const int QUANTIDADE_JOGADORES = 2;
 
-        System.Console.WriteLine("#### JOGO DE ADIVINHAR ####");
-        int pontuacaoInicial = 100;
-        double pontuacaoFinal;
+        
 
-        do
+        for (int i = 0; i < QUANTIDADE_JOGADORES; i++)
         {
-            System.Console.WriteLine($"Esta é sua tentativa número {contador} de {MAXIMO_DE_TENTATIVAS}");
-            System.Console.WriteLine("Digite uma palavra até acertar a palavra certa");
-            string inPalavraDigitadaPeloUsuario = Console.ReadLine();
+            System.Console.WriteLine("Digite sua altura: ");
+            alturaAtual = double.Parse(Console.ReadLine());
+            somatorioAltura += alturaAtual;
 
-            if (inPalavraDigitadaPeloUsuario != PALAVRA_CORRETA)
+            if (alturaAtual > maiorAltura)
             {
-                System.Console.WriteLine($"\nIncorreto, você tem mais {MAXIMO_DE_TENTATIVAS - contador} tentativas");
-                contador++;
+                maiorAltura = alturaAtual;
             }
-            else
-            {
-                System.Console.WriteLine($"\nVoce acertou! A palavra correta era {PALAVRA_CORRETA}!");
-                pontuacaoFinal = pontuacaoInicial / contador;
-                System.Console.WriteLine($"Sua pontuacao final foi: {pontuacaoFinal}");
-                break;
-            }
-            
         }
-        while (contador <= MAXIMO_DE_TENTATIVAS);
-
+        mediaAltura = Math.Round((somatorioAltura / QUANTIDADE_JOGADORES), 2);
+        maiorAltura = Math.Round(maiorAltura, 2);
+        System.Console.WriteLine($"\nA media eh: {mediaAltura}ml");
+        System.Console.WriteLine($"A maior altura eh: {maiorAltura}m");
     }
 }

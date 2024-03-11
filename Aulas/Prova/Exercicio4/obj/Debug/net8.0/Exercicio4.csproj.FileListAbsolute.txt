@@ -1,0 +1,15 @@
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Prova/Exercicio4/bin/Debug/net8.0/Exercicio4
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Prova/Exercicio4/bin/Debug/net8.0/Exercicio4.deps.json
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Prova/Exercicio4/bin/Debug/net8.0/Exercicio4.runtimeconfig.json
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Prova/Exercicio4/bin/Debug/net8.0/Exercicio4.dll
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Prova/Exercicio4/bin/Debug/net8.0/Exercicio4.pdb
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Prova/Exercicio4/obj/Debug/net8.0/Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Prova/Exercicio4/obj/Debug/net8.0/Exercicio4.AssemblyInfoInputs.cache
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Prova/Exercicio4/obj/Debug/net8.0/Exercicio4.AssemblyInfo.cs
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Prova/Exercicio4/obj/Debug/net8.0/Exercicio4.csproj.CoreCompileInputs.cache
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Prova/Exercicio4/obj/Debug/net8.0/Exercicio4.sourcelink.json
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Prova/Exercicio4/obj/Debug/net8.0/Exercicio4.dll
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Prova/Exercicio4/obj/Debug/net8.0/refint/Exercicio4.dll
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Prova/Exercicio4/obj/Debug/net8.0/Exercicio4.pdb
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Prova/Exercicio4/obj/Debug/net8.0/Exercicio4.genruntimeconfig.cache
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Prova/Exercicio4/obj/Debug/net8.0/ref/Exercicio4.dll
