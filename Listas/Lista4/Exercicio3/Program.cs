@@ -15,19 +15,13 @@ class Program
             for (int coluna = inicio; coluna <= final; coluna++)
             {
                 // Se for a linha inicial ou final, imprime
-                if (linha == inicio || linha == final)
-                {
-                    Tabuleiro.Adicionar(linha, coluna, "s");
-                }
-
-                // Se for a coluna inicial ou final, imprime
-                if (coluna == inicio || coluna == final)
+                if ((linha == inicio || linha == final) || (coluna == inicio || coluna == final))
                 {
                     Tabuleiro.Adicionar(linha, coluna, "s");
                 }
             }
         }
-        
+
         // imprime o tabuleiro final
         Tabuleiro.ImprimeTabuleiro();
     }
