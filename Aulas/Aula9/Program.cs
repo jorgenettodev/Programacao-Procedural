@@ -4,12 +4,33 @@ class Program
 {
     static void Main(string[] args)
     {
-        for (int i = 0; i <= 20; i++)
+        int inputNumero = int.Parse(Console.ReadLine());
+
+        if (inputNumero > 0)
         {
-            if (i % 2 == 0)
+            int somatorioNumerosImpares = 0;
+            for (int i = 0; i <= inputNumero; i++)
             {
-                System.Console.WriteLine(i);
+                if (i % 2 != 0)
+                {
+                somatorioNumerosImpares += i;
+                }
             }
+            Console.WriteLine(somatorioNumerosImpares);
+        }
+        else if (inputNumero < 0)
+        {
+            for (int i = 0; i >= inputNumero; i--)
+            {
+                if (i % 2 == 0)
+                {
+                    System.Console.WriteLine(i);
+                }
+            }
+        }
+        else
+        {
+            System.Console.WriteLine("nada a fazer aqui");
         }
     }
 }
