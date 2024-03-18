@@ -1,0 +1,15 @@
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista5/Exercicio5/bin/Debug/net8.0/Exercicio5
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista5/Exercicio5/bin/Debug/net8.0/Exercicio5.deps.json
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista5/Exercicio5/bin/Debug/net8.0/Exercicio5.runtimeconfig.json
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista5/Exercicio5/bin/Debug/net8.0/Exercicio5.dll
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista5/Exercicio5/bin/Debug/net8.0/Exercicio5.pdb
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista5/Exercicio5/obj/Debug/net8.0/Exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista5/Exercicio5/obj/Debug/net8.0/Exercicio5.AssemblyInfoInputs.cache
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista5/Exercicio5/obj/Debug/net8.0/Exercicio5.AssemblyInfo.cs
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista5/Exercicio5/obj/Debug/net8.0/Exercicio5.csproj.CoreCompileInputs.cache
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista5/Exercicio5/obj/Debug/net8.0/Exercicio5.sourcelink.json
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista5/Exercicio5/obj/Debug/net8.0/Exercicio5.dll
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista5/Exercicio5/obj/Debug/net8.0/refint/Exercicio5.dll
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista5/Exercicio5/obj/Debug/net8.0/Exercicio5.pdb
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista5/Exercicio5/obj/Debug/net8.0/Exercicio5.genruntimeconfig.cache
+/Users/jorgenettodev/repos/Programacao-Procedural/Listas/Lista5/Exercicio5/obj/Debug/net8.0/ref/Exercicio5.dll
