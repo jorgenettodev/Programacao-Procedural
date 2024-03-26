@@ -1,0 +1,15 @@
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Aula11/bin/Debug/net8.0/Aula11
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Aula11/bin/Debug/net8.0/Aula11.deps.json
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Aula11/bin/Debug/net8.0/Aula11.runtimeconfig.json
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Aula11/bin/Debug/net8.0/Aula11.dll
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Aula11/bin/Debug/net8.0/Aula11.pdb
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Aula11/obj/Debug/net8.0/Aula11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Aula11/obj/Debug/net8.0/Aula11.AssemblyInfoInputs.cache
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Aula11/obj/Debug/net8.0/Aula11.AssemblyInfo.cs
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Aula11/obj/Debug/net8.0/Aula11.csproj.CoreCompileInputs.cache
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Aula11/obj/Debug/net8.0/Aula11.sourcelink.json
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Aula11/obj/Debug/net8.0/Aula11.dll
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Aula11/obj/Debug/net8.0/refint/Aula11.dll
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Aula11/obj/Debug/net8.0/Aula11.pdb
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Aula11/obj/Debug/net8.0/Aula11.genruntimeconfig.cache
+/Users/jorgenettodev/repos/Programacao-Procedural/Aulas/Aula11/obj/Debug/net8.0/ref/Aula11.dll
