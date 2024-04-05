@@ -16,14 +16,20 @@ class Program
 {
     static void Main(string[] args)
     {
-        for (int outer = 9; outer >= 1; outer--)
+        Tabuleiro.InicializaTabuleiro();
+        for (int linha = 0; linha <= 7; linha++)
         {
-            for (int inner = 9; inner >= outer; inner--)
+            for (int coluna = 0; coluna <= 7; coluna++)
             {
-                System.Console.Write(inner);
+                if (coluna + linha > 7) 
+                {
+                    break;
+                }
+                Tabuleiro.Adicionar(linha, coluna, "C");
+                // Console.Write(coluna);
             }
-            System.Console.WriteLine();
+            // System.Console.WriteLine();
         }
-
+        Tabuleiro.ImprimeTabuleiro();
     }
 }
